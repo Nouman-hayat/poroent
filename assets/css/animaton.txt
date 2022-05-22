@@ -1,0 +1,4 @@
+ transition: all ease-in-out 0.4s;
+ /* #hero .animated {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+} */
